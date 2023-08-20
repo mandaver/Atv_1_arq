@@ -18,7 +18,7 @@ Atividade 01 da disciplina ARQUITETURA E TECNOLOGIAS DE SISTEMAS WEB
 - Centralizar as imagens das skills em conjunto dentro do bloco ✔️
 - "Projetos" -> Colocar espaçamento entre imagem e título do projeto ✔️
 
-## Pontos a desenvolver ❌
+## ⚠️ Pontos a desenvolver ⚠️
 - Modo dark / light ❌
 - Tradrução do site com botão ❌
 
